@@ -1,4 +1,4 @@
-public class LinearSearch{
+public class Linearsearch{
     public static void main(String[]args){
         int arr[]={10,20,30,70,50};
         int target=30;
